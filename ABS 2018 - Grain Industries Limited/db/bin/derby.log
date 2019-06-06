@@ -1,0 +1,14 @@
+Fri Oct 19 12:37:00 EDT 2018 : Could not listen on port 1527 on host localhost:
+ java.net.BindException: Address already in use (Bind fa----------------------------------------------------------------
+Fri Oct 19 12:37:30 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-8d2f-df6d-ffffa3bef301 
+on database directory /root/Documents/eclipse asa softech/ABS/db/bin/root with class loader sun.misc.Launcher$AppClassLoader@d716361 
+Loaded from file:/root/Documents/eclipse%20asa%20softech/ABS/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-8u171-b11-2-b11
+user.dir=/root/Documents/eclipse asa softech/ABS/db/bin
+os.name=Linux
+os.arch=amd64
+os.version=4.18.0-kali2-amd64
+derby.system.home=/root/Documents/eclipse asa softech/ABS/db/bin
+Database Class Loader started - derby.database.classpath=''

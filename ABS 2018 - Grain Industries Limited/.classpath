@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes"
+		path="src">
+		<attributes>
+			<attribute name="optional" value="true" />
+			<attribute name="maven.pomderived" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con"
+		path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con"
+		path="net.sf.jasperreports.JR_CONTAINER" />
+	<classpathentry exported="true" kind="con"
+		path="com.jaspersoft.server.JRS_CONTAINER" />
+	<classpathentry kind="lib"
+		path="C:/Users/Jakida/Documents/eclipse-workspace/ABS 2018 - Grain Industries Limited.zip_expanded/ABS 2018 - Grain Industries Limited/db/lib/derbyclient.jar" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER" />
+	<classpathentry kind="output" path="target/classes" />
+</classpath>
