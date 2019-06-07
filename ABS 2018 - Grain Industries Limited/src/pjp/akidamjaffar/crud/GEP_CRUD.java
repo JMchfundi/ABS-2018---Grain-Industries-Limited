@@ -29,7 +29,7 @@ public class GEP_CRUD {
 	public Serializable saveObject() {
 
 		transactionObj = sessionObj.beginTransaction();
-		serializableObj = sessionObj.save(objectData);
+		serializableObj = (Serializable) sessionObj.save(objectData);
 
 		try {
 			transactionObj.commit();
