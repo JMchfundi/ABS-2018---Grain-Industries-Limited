@@ -10,6 +10,7 @@ public class DBConnection {
 		// TODO Auto-generated method stub
 		try {
 			if (System.getProperty("os.name").equalsIgnoreCase("Linux"))
+				Runtime.getRuntime().exec("chmod +x startdb");
 				Runtime.getRuntime().exec("./startdb");
 			else
 				Runtime.getRuntime().exec("cmd /c startdb.bat");
